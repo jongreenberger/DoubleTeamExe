@@ -1,0 +1,16 @@
+<level
+  cam1BottomLeft="0,18"
+  cam1TopRight="40,29"
+  cam1Height="11"
+  >
+  <timeBubble
+    radius="3.f"
+    timeScale="0.2f"
+    position="7,6">
+  </timeBubble>
+  <timeBubble
+    radius="5.f"
+    timeScale="2.f"
+    position="30,21">
+  </timeBubble>
+</level>

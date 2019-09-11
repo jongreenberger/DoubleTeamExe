@@ -1,0 +1,7 @@
+<level>
+  <timeBubble
+    radius="1.5f"
+    timeScale="0.2f"
+    position="14.8,9">
+  </timeBubble>
+</level>

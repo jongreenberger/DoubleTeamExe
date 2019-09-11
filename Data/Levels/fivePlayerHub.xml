@@ -1,0 +1,50 @@
+<level numPlayers="5">
+  <playerInfo 
+    playerIndex="0"
+    camBottomLeft="0,0"
+    camTopRight="13,6"
+    camHeight="6"
+    screenBottomLeft="0,1"
+    screenTopRight="(16/9)*(13/40),16.5/22.5">   
+  </playerInfo>
+
+
+  <playerInfo
+    playerIndex="1"
+    camBottomLeft="27,0"
+    camTopRight="40,6"
+    camHeight="6"
+    screenBottomLeft="(16/9)*(27/40),1"
+    screenTopRight="(16/9)*(40/40),16.5/22.5">
+  </playerInfo>
+
+
+  <playerInfo
+    playerIndex="2"
+    camBottomLeft="27,17"
+    camTopRight="40,23"
+    camHeight="6"
+    screenBottomLeft="(16/9)*(27/40),6/22.5"
+    screenTopRight="(16/9)*(40/40),0/22.5">
+  </playerInfo>
+
+
+  <playerInfo 
+    playerIndex="3"
+    camBottomLeft="0,17"
+    camTopRight="13,23"
+    camHeight="6"
+    screenBottomLeft="(16/9)*(0/40),6/22.5"
+    screenTopRight="(16/9)*(13/40),0/22.5">
+  </playerInfo>
+
+
+  <playerInfo
+     playerIndex="4"
+    camBottomLeft="12,9"
+    camTopRight="25,15"
+    camHeight="6"
+    screenBottomLeft="(16/9)*(13.5/40),14.25/22.5"
+    screenTopRight="(16/9)*(26.5/40),8.25/22.5">
+  </playerInfo>
+</level>

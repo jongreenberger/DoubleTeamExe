@@ -1,0 +1,7 @@
+<level>
+  <timeEntity
+    radius="2.f"
+    timeScale="0.2f"
+    coords="2,13">
+  </timeEntity>
+</level>

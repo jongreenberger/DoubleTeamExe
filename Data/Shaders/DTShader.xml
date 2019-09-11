@@ -1,0 +1,2 @@
+<Shader vertEntry="VertexFunction" pixelEntry="FragmentFunction" blendMode="alpha"
+        depthOp="always" writeDepth="false"  shaderName="DefaultUnlit.hlsl"/>

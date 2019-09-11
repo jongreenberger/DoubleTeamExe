@@ -1,0 +1,22 @@
+<level>
+  <timeBubble
+    radius="2.f"
+    timeScale="0.2f"
+    position="37,16">
+  </timeBubble>
+  <timeBubble
+    radius="2.f"
+    timeScale="2.f"
+    position="37,4">
+  </timeBubble>
+  <timeBubble
+    radius="2.f"
+    timeScale="0.2f"
+    position="8,16">
+  </timeBubble>
+  <timeBubble
+    radius="2.f"
+    timeScale="2.f"
+    position="12,4">
+  </timeBubble>
+</level>

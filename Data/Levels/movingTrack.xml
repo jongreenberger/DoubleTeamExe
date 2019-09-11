@@ -1,0 +1,52 @@
+<level  cam2TopRight="60,17" cam2BottomLeft="0,0" cam1Height="11" cam1TopRight="60,39" cam1BottomLeft="0,24" cam2Height="11">
+  <track looping="false">
+    <point position="5.5,16.5"/>
+    <point position="5.5,8.5"/>
+    <point position="17.5,8.5"/>
+    <point position="17.5,14.5"/>
+    <point position="34,7.5"/>
+    <point position="34,14.5"/>
+    <point position="58,14.5"/>
+    <movingTileGroup
+      name="cage1"
+      speed="1.f"
+      pivot="0.5,1"
+      startPercent="0"
+      ></movingTileGroup>
+  </track>
+  <track looping="false">
+    <point position="4.5,41.5"/>
+    <point position="4.5,33.5"/>
+    <point position="16.5,33.5"/>
+    <point position="16.5,39.5"/>
+    <point position="35,32.5"/>
+    <point position="35,39.5"/>
+    <point position="59,26.5"/>
+    <movingTileGroup
+      name="cage2"
+      speed="1.f"
+      pivot="0.5,1"
+      startPercent="0"
+      ></movingTileGroup>
+  </track>
+  <timeEntity
+    radius="3.f"
+    timeScale="2.f"
+    coords="16,35">
+  </timeEntity>
+  <timeEntity
+    radius="3.f"
+    timeScale="2.f"
+    coords="36,35">
+  </timeEntity>
+  <timeEntity
+    radius="3.f"
+    timeScale="2.f"
+    coords="17,11">
+  </timeEntity>
+  <timeEntity
+    radius="3.f"
+    timeScale="2.f"
+    coords="35,11">
+  </timeEntity>
+</level>

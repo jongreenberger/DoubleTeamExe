@@ -1,0 +1,12 @@
+<level cam1TopRight="40,25" cam1BottomLeft="0,20" cam1Height="5" cam2TopRight="40,17" cam2BottomLeft="0,0" cam2Height="17"
+        screen1BottomLeft="0,1-(17.5/22.5)" screen1TopRight="(16/9),0"   screen2BottomLeft="0,1" screen2TopRight="16/9,1-(17/22.5)">
+  <track looping="false">
+    <point position ="1.5,8"/>
+    <point position ="30.5,8"/>
+    <movingTileGroup
+   name="crateHolder"
+   speed="10.f"
+   pivot="0.5,0."
+      ></movingTileGroup>
+  </track>
+</level>

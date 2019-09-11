@@ -1,0 +1,38 @@
+<level>
+  <track looping="false">
+    <point position="5.5,14.5" />
+    <point position="7.5,14.5" />
+    <movingTileGroup
+      name="threeWide"
+      speed="2.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+  </track>
+  <track looping="false">
+    <point position="10.5,14.5" />
+    <point position="12.5,14.5" />
+    <movingTileGroup
+      name="threeWide"
+      speed="2.f"
+      pivot="0.5,0.5"
+      startPercent="1"
+      ></movingTileGroup>
+  </track>
+  <track looping="true">
+    <point position="19,1.5" />
+    <point position="17,3.5" />
+    <point position="19,5.5" />
+    <point position="21,3.5" />
+    <movingTileGroup
+      name="threeWide"
+      speed="2.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+    <movingTileGroup
+      name="threeWide"
+      speed="2.f"
+      pivot="0.5,0.5"
+      startPercent="0.5"
+      ></movingTileGroup>
+  </track>
+</level>

@@ -1,0 +1,39 @@
+<level>
+  <track
+    looping="true">
+    <point position="13.5,2.5"></point>
+    <point position="8.5,6.5"></point>
+    <point position="4.5,2.5"></point>
+    <movingTileGroup
+      name="testGroup"
+      speed="1.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+  </track>
+  <track
+    looping="false">
+    <point position="3.5,14.5"></point>
+    <point position="8.5,14.5"></point>
+    <movingTileGroup
+      name="threeWide"
+      speed="1.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+  </track>
+  <track
+    looping="false">
+    <point position="26.5,13.5"></point>
+    <point position="26.5,18.5"></point>
+    <movingTileGroup
+      name="threeTall"
+      speed="1.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+  </track>
+  <timeBubble
+    radius =" 2.f"
+    timeScale="0.2f"
+    position="5.5,14.5"></timeBubble>
+</level> 
+  
+  

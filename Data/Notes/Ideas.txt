@@ -1,0 +1,26 @@
+
+
+// levels where the two screens are actually part of the same world 
+level where goals are mismatched, so you realize you have to get characters on each others screen.
+level where you need to drop block from top screen to bottom. (obfuscated). moving platform gives hint as it straddles both screens
+
+Things to teach with blocks
+(you can ride them)
+(they can ride you)
+(you go slower when pushing them) DONE
+(flinging them)
+
+
+use fast bubble to make moving platform go fast enough to fling you (TOO FINICKY)
+
+drop off crate from top to bottom, using moving arrow as hint
+
+use slow bubbles stacking to make crates freeze so you can platform across pit on them  
+
+level where practically the whole level is moving platforms
+
+things to introduce with moving platforms
+
+OTHER BLOCK TYPES (DONE)
+FLINGING (DONE)
+OTHER SHAPES (DONE)

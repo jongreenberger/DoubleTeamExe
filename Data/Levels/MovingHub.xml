@@ -1,0 +1,20 @@
+<level>
+  <track looping="false" >
+    <point position="35.5,14.5" />
+    <point position="35.5,20.5" />
+    <movingTileGroup
+      name="singleBlock"
+      speed="1.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+  </track>
+  <track looping="false" >
+    <point position="35.5,3.5" />
+    <point position="35.5,8.5" />
+    <movingTileGroup
+      name="singleBlock"
+      speed="1.f"
+      pivot="0.5,0.5"
+      ></movingTileGroup>
+  </track>
+</level>

@@ -1,0 +1,2 @@
+<Shader vertEntry="VertexFunction" pixelEntry="FragmentFunction" blendMode="opaque"
+        depthOp="always" writeDepth="false" shaderName="FullScreenTest.hlsl"/>

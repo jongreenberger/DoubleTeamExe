@@ -1,0 +1,24 @@
+<level  cam1TopRight="20,11" cam1BottomLeft="0,0" cam1Height="11" cam2TopRight="33,12" cam2BottomLeft="24,0" cam2Height="12"
+        screen1BottomLeft="0,1-(5/22.5)" screen1TopRight="(16/9)*(20/40),1-(16/22.5)"   screen2BottomLeft="(16/9)*(22/40),1-(5/22.5)" screen2TopRight="(16/9)*(31/40),1-(17/22.5)"
+        >
+  <track moving="false">
+    <point position="6.5,5.5" />
+    <point position="14.5,5.5" />
+    <movingTileGroup
+      name="threeWide"
+      speed="2.f"
+      pivot="0.5,0.5"
+      startPercent="1"
+      ></movingTileGroup>
+  </track>
+  <track moving="false">
+    <point position="28.5,1.5" />
+    <point position="28.5,9.5" />
+    <movingTileGroup
+      name="threeWide"
+      speed="2.f"
+      pivot="0.5,0.5"
+      startPercent="1"
+      ></movingTileGroup>
+  </track>
+</level>

@@ -1,0 +1,27 @@
+<audio>
+  
+  <mix name="master" />
+  <mix name="sfx" parent="master" />
+  <mix name="bgm" parent="master" />
+
+  <clip name="hub" streaming="true" looping="true" is3D="false" path="Data/Audio/Hub.mp3" />
+  <clip name="world1" streaming="true" looping="true" is3D="false" path="Data/Audio/World1.wav" />
+  <clip name="world2" streaming="true" looping="true" is3D="false" path="Data/Audio/World2.wav" />
+  <clip name="world3" streaming="true" looping="true" is3D="false" path="Data/Audio/World3.wav" />
+  <clip name="world4" streaming="true" looping="true" is3D="false" path="Data/Audio/World4.wav" />
+  <clip name="world5" streaming="true" looping="true" is3D="false" path="Data/Audio/World5.wav" />
+  
+  
+  <clip name="death" is3D="true"  path="Data/Audio/PlayerDied.wav" minDistance="0.5" />
+  <clip name="beatLevel" is3D="false"  path="Data/Audio/Win.wav" />
+  <clip name="select" is3D="false" path="Data/Audio/select.wav" />
+  <clip name="enter" is3D="false" path="Data/Audio/enter.wav" />
+  <clip name="hitSwitch" is3D="false" path="Data/Audio/hitSwitch.wav" />
+  <clip name="win" is3D="false" path="Data/Audio/Win.wav" />
+  <clip name="startLevel" is3D="false" path="Data/Audio/Win.wav" />
+  <clip name="blockChange" is3D="false" path="Data/Audio/blockChange.wav" />
+  <clip name="jump" is3D="true"  path="Data/Audio/Jump.wav" minDistance="0.5"/>
+  <clip name="shoot" is3D="true"  path="Data/Audio/Shoot.wav" minDistance="0.5"/>
+
+
+</audio>
