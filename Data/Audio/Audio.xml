@@ -10,6 +10,7 @@
   <clip name="world3" streaming="true" looping="true" is3D="false" path="Data/Audio/World3.wav" />
   <clip name="world4" streaming="true" looping="true" is3D="false" path="Data/Audio/World4.wav" />
   <clip name="world5" streaming="true" looping="true" is3D="false" path="Data/Audio/World5.wav" />
+  <clip name="editor" streaming="true" looping="true" is3D="false" path="Data/Audio/editor.wav" />
   
   
   <clip name="death" is3D="true"  path="Data/Audio/PlayerDied.wav" minDistance="0.5" />

@@ -1,0 +1,4 @@
+<level numPlayers="2" music="world1">
+    <playerInfo playerIndex="0" screenBottomLeft="0,0.48888889" screenTopRight="1.77777779,0" camBottomLeft="0,12" camTopRight="40,23"/>
+    <playerInfo playerIndex="1" screenBottomLeft="0,1" screenTopRight="1.77777779,0.51111114" camBottomLeft="0,0" camTopRight="40,11"/>
+</level>
